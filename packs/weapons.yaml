@@ -45,3 +45,13 @@ emojis:
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/pt22.gif
     aliases:
       - taurus-pt22
+  - name: m16a1
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/m16a1.jpg
+    aliases:
+      - ar15
+  - name: derringer
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/derringer.jpg
+  - name: s&w-44
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/sw44.jpg
+    aliases:
+      - smith-and-wesson

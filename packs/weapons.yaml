@@ -36,7 +36,7 @@ emojis:
     aliases:
       - revolver
   - name: cz-scorpion-evo
-    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/cz-scorpion-evo.jpg
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/cz-scorpion-evo.png
   - name: ak47
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/ak47-160.jpg
     aliases:

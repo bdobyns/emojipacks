@@ -1,47 +1,47 @@
 title: weapons
 emojis:
   - name: trebuchet
-    src: https://github.com/bdobyns/emojipacks/raw/master/assets/Trebuchet-_medieval_antique_old-128.png
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/Trebuchet-_medieval_antique_old-128.png
     aliases:
       - siege-engine
   - name: catapult
-    src: https://github.com/bdobyns/emojipacks/raw/master/assets/catapult_firing-128.png
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/catapult_firing-128.png
   - name: i-tried-it-at-home
-    src: https://raw.githubusercontent.com/bdobyns/emojipacks/master/assets/i-tried-it-at-home-128.jpg
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/i-tried-it-at-home-128.jpg
     aliases:
       - man-on-fire
   - name: pistol-muzzle-loader
-    src: http://www.iconninja.com/files/199/301/261/pistol-icon.png
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/pistol-icon.png
   - name: hammer-and-stake
-    src: http://www.iconninja.com/files/689/316/995/hammer-stake-icon.png
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/hammer-stake-icon.png
     aliases:
       - kill-vampire
   - name: uzi
-    src: http://www.iconninja.com/files/316/943/711/pistol-mini-uzi-icon.png
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/pistol-mini-uzi-icon.png
   - name: m1911
-    src: http://d13z1xw8270sfc.cloudfront.net/resize/227958/wwwtaurususacomimagesimagesmain1911b_1jpg.jpg/128/128/0/
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/m1911.jpg
     aliases:
       - pistol
       - pistol-point-rt
   - name: 1911
-    src: http://i864.photobucket.com/albums/ab207/Chyrosran/1911A1.png
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/1911A1.png
     aliases: 
       - pistol-point-lt
   - name: p08
-    src: https://s-media-cache-ak0.pinimg.com/236x/66/38/74/663874bd6ecb05d92deee5ea3aba3f6a.jpg
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/p08.jpg
     aliases:
       - luger
   - name: colt-revolver
-    src: http://www.iconninja.com/files/565/954/435/gun-colt-icon.png
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/gun-colt-icon.png
     aliases:
       - revolver
   - name: cz-scorpion-evo
-    src: https://68.media.tumblr.com/avatar_9cfef9e31f10_128.png
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/cz-scorpion-evo.jpg
   - name: ak47
-    src: https://github.com/bdobyns/emojipacks/raw/master/assets/ak47-160.jpg
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/ak47-160.jpg
     aliases:
       - ak-47
   - name: pt22
-    src: https://github.com/bdobyns/emojipacks/raw/master/assets/pt22.jpg
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/pt22.jpg
     aliases:
       - taurus-pt22

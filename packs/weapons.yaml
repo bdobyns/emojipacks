@@ -1,5 +1,7 @@
 title: weapons
 emojis:
+  - name: dynamite
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/dynamite-ba4a.png
   - name: trebuchet
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/Trebuchet-_medieval_antique_old-128.png
     aliases:

@@ -51,7 +51,7 @@ emojis:
       - ar15
   - name: derringer
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/derringer.jpg
-  - name: s&w-44
+  - name: sw-44
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/sw44.jpg
     aliases:
       - smith-and-wesson

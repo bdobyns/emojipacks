@@ -38,10 +38,10 @@ emojis:
   - name: cz-scorpion-evo
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/cz-scorpion-evo.png
   - name: ak47
-    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/ak47-160.jpg
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/ak47.png
     aliases:
       - ak-47
   - name: pt22
-    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/pt22.jpg
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/pt22.gif
     aliases:
       - taurus-pt22

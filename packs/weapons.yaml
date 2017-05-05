@@ -74,7 +74,7 @@ emojis:
   - name: battle-hammer
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/battle-hammer.png
     aliases:
-      - Mjölnir
+      - mjolnir
   - name: katana
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/katana.png
   - name: kitchen-knife
@@ -89,3 +89,7 @@ emojis:
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/sniper-sight.png
   - name: uzi
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/uzi.gif
+  - name: aerial-bomb
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/aerial-bomb.png
+  - name: cannon
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/cannon.png

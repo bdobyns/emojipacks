@@ -69,3 +69,7 @@ emojis:
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/sw44.jpg
     aliases:
       - smith-and-wesson
+  - name: cluster-grenades
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/cluster-grenades.png
+  - name: crossbow
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/crossbow.png

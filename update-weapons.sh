@@ -18,3 +18,4 @@ git commit -m "added these weapons $NAMES"
 git push
 
 
+for i in $( cd assets ; ls ); do if ! grep $i packs/weapons.yaml >/dev/null; then NAME=$( echo $i | cut -f 1 -d . ) ; echo $i; fi; done

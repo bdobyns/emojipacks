@@ -73,3 +73,5 @@ emojis:
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/cluster-grenades.png
   - name: crossbow
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/crossbow.png
+  - name: battle-hammer
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/battle-hammer.png

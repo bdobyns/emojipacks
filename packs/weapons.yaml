@@ -105,3 +105,15 @@ emojis:
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/stone-hatchet.png
   - name: tomahawk
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/tomahawk.jpg
+  - name: at-at
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/at-at.png
+  - name: at-st
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/at-st.png
+  - name: bear-trap
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/bear-trap.png
+  - name: grenade
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/grenade.png
+  - name: landmine
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/landmine.jpg
+  - name: lethal-injection
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/lethal-injection.png

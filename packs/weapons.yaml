@@ -1,5 +1,11 @@
 title: weapons
 emojis:
+  - name: spear
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/spear.png
+  - name: flail
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/weapons_flail-128.png
+    aliases:
+      - morning-star
   - name: battle-axe
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/battle-axe.png
   - name: no-weapons

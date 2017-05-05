@@ -93,3 +93,15 @@ emojis:
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/aerial-bomb.png
   - name: cannon
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/cannon.png
+  - name: death
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/death.png
+  - name: hatchet
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/hatchet.png
+  - name: meat-cleaver
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/meat-cleaver.png
+  - name: slingshot
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/slingshot.png
+  - name: stone-hatchet
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/stone-hatchet.png
+  - name: tomahawk
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/tomahawk.jpg

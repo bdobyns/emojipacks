@@ -1,5 +1,11 @@
 title: weapons
 emojis:
+  - name: battle-axe
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/battle-axe.png
+  - name: no-weapons
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/no-weapons.png
+    aliases:
+      - no-guns
   - name: dynamite
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/dynamite-ba4a.png
   - name: trebuchet

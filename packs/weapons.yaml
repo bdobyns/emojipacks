@@ -30,8 +30,6 @@ emojis:
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/hammer-stake-icon.png
     aliases:
       - kill-vampire
-  - name: uzi
-    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/pistol-mini-uzi-icon.png
   - name: m1911
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/m1911.jpg
     aliases:
@@ -75,3 +73,19 @@ emojis:
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/crossbow.png
   - name: battle-hammer
     src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/battle-hammer.png
+    aliases:
+      - Mjölnir
+  - name: katana
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/katana.png
+  - name: kitchen-knife
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/kitchen-knife.png
+  - name: mini-uzi
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/mini-uzi.png
+  - name: naginata
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/naginata.png
+  - name: shuriken
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/shuriken.png
+  - name: sniper-sight
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/sniper-sight.png
+  - name: uzi
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/uzi.gif

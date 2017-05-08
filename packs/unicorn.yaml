@@ -20,3 +20,15 @@ emojis:
     src: https://github.com/bdobyns/emojipacks/raw/unicorn/assets/unicorn-muffins.jpg
   - name: unicorn-vomit
     src: https://github.com/bdobyns/emojipacks/raw/unicorn/assets/unicorn-vomit.jpg
+  - name: blue-unicorn
+    src: https://github.com/bdobyns/emojipacks/raw/unicorn/assets/blue-unicorn.png
+  - name: epic-unicorn
+    src: https://github.com/bdobyns/emojipacks/raw/unicorn/assets/epic-unicorn.jpg
+  - name: pink-unicorn
+    src: https://github.com/bdobyns/emojipacks/raw/unicorn/assets/pink-unicorn.png
+  - name: platypus-unicorn
+    src: https://github.com/bdobyns/emojipacks/raw/unicorn/assets/platypus-unicorn.jpg
+  - name: rainbow-unicorn
+    src: https://github.com/bdobyns/emojipacks/raw/unicorn/assets/rainbow-unicorn.jpg
+  - name: unicorn-rampant
+    src: https://github.com/bdobyns/emojipacks/raw/unicorn/assets/unicorn-rampant.png

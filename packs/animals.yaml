@@ -20,3 +20,23 @@ emojis:
     src: https://github.com/bdobyns/emojipacks/raw/animals/assets/wooly-mammoth.png
   - name: zebra
     src: https://github.com/bdobyns/emojipacks/raw/animals/assets/zebra.png
+  - name: arctic-fox
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/arctic-fox.jpg
+  - name: desert-fox
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/desert-fox.gif
+  - name: festive-reindeer
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/festive-reindeer.png
+  - name: great-auk
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/great-auk.png
+  - name: great-owl
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/great-owl.png
+  - name: hawk
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/hawk.jpg
+  - name: moa
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/moa.png
+  - name: moose
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/moose.png
+  - name: reindeer-crash
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/reindeer-crash.png
+  - name: reindeer-harness
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/reindeer-harness.png

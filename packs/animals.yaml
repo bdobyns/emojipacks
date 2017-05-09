@@ -40,3 +40,23 @@ emojis:
     src: https://github.com/bdobyns/emojipacks/raw/animals/assets/reindeer-crash.png
   - name: reindeer-harness
     src: https://github.com/bdobyns/emojipacks/raw/animals/assets/reindeer-harness.png
+  - name: beluga-whale
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/beluga-whale.jpg
+  - name: blue-whale
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/blue-whale.jpg
+  - name: grey-seal
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/grey-seal.png
+  - name: humpback-whale
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/humpback-whale.jpg
+  - name: killer-whale
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/killer-whale.jpg
+  - name: narwhal
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/narwhal.jpg
+  - name: raccoon
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/raccoon.png
+  - name: robot-dog
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/robot-dog.png
+  - name: robot-scorpion
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/robot-scorpion.png
+  - name: robot-shark
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/robot-shark.png

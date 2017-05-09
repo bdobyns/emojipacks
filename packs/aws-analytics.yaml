@@ -1,0 +1,44 @@
+title: AWS Analytics
+emojis:
+  - name: aws-amazonathena
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonAthena.png
+  - name: aws-amazoncloudsearch_searchdocuments
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonCloudSearch_searchdocuments.png
+  - name: aws-amazoncloudsearch
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonCloudSearch.png
+  - name: aws-amazonemr_cluster
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonEMR_cluster.png
+  - name: aws-amazonemr_emrengine
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonEMR_EMRengine.png
+  - name: aws-amazonemr_emrenginemaprm3
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonEMR_EMRengineMapRM3.png
+  - name: aws-amazonemr_emrenginemaprm5
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonEMR_EMRengineMapRM5.png
+  - name: aws-amazonemr_emrenginemaprm7
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonEMR_EMRengineMapRM7.png
+  - name: aws-amazonemr
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonEMR-HDFScluster.png
+  - name: aws-amazonemr
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonEMR.png
+  - name: aws-amazones
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonES.png
+  - name: aws-amazonkinesis_amazonkinesis
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonKinesis_AmazonKinesis-enabledapp.png
+  - name: aws-amazonkinesis_amazonkinesisanalytics
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
+  - name: aws-amazonkinesis_amazonkinesisfirehose
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonKinesis_AmazonKinesisFirehose.png
+  - name: aws-amazonkinesis_amazonkinesisstreams
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonKinesis_AmazonKinesisStreams.png
+  - name: aws-amazonkinesis
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonKinesis.png
+  - name: aws-amazonquicksight
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonQuickSight.png
+  - name: aws-amazonredshift_densecomputenode
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonRedshift_densecomputenode.png
+  - name: aws-amazonredshift_densestoragenode
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonRedshift_densestoragenode.png
+  - name: aws-amazonredshift
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AmazonRedshift.png
+  - name: aws-awsdatapipeline
+    src: http://aendrew.com/aws-slack-emojipack/Analytics_AWSDataPipeline.png

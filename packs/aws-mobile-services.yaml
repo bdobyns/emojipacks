@@ -1,0 +1,14 @@
+title: AWS Mobile Services
+emojis:
+  - name: aws-amazonapigateway
+    src: http://aendrew.com/aws-slack-emojipack/MobileServices_AmazonAPIGateway.png
+  - name: aws-amazoncognito
+    src: http://aendrew.com/aws-slack-emojipack/MobileServices_AmazonCognito.png
+  - name: aws-amazonmobileanalytics
+    src: http://aendrew.com/aws-slack-emojipack/MobileServices_AmazonMobileAnalytics.png
+  - name: aws-amazonpinpoint
+    src: http://aendrew.com/aws-slack-emojipack/MobileServices_AmazonPinpoint.png
+  - name: aws-awsdevicefarm
+    src: http://aendrew.com/aws-slack-emojipack/MobileServices_AWSDeviceFarm.png
+  - name: aws-awsmobilehub
+    src: http://aendrew.com/aws-slack-emojipack/MobileServices_AWSMobileHub.png

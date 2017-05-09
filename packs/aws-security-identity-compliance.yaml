@@ -1,0 +1,46 @@
+title: AWS Security and Identity Compliance
+emojis:
+  - name: aws-amazoninspector_agent
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_AmazonInspector_agent.png
+  - name: aws-amazoninspector
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_AmazonInspector.png
+  - name: aws-awsartifact
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_AWSArtifact.png
+  - name: aws-awscertificatemanager_certificatemanager
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_AWSCertificateManager_certificatemanager.png
+  - name: aws-awscertificatemanager
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_AWSCertificateManager.png
+  - name: aws-awscloudhsm
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_AWSCloudHSM.png
+  - name: aws-awskms
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_AWSKMS.png
+  - name: aws-awsorganizations
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_AWSOrganizations.png
+  - name: aws-awsshield
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_AWSShield.png
+  - name: aws-awswaf_filteringrule
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_AWSWAF_filteringrule.png
+  - name: aws-awswaf
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_AWSWAF.png
+  - name: aws-iam_addon
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_IAM_addon.png
+  - name: aws-iam_awssts-2
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_IAM_AWSSTS-2.png
+  - name: aws-iam_awssts
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_IAM_AWSSTS.png
+  - name: aws-iam_dataencryptionkey
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_IAM_dataencryptionkey.png
+  - name: aws-iam_encrypteddata
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_IAM_encrypteddata.png
+  - name: aws-iam_long-termsecuritycredential
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_IAM_long-termsecuritycredential.png
+  - name: aws-iam_mfatoken
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_IAM_MFAtoken.png
+  - name: aws-iam_permissions
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_IAM_permissions.png
+  - name: aws-iam_role
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_IAM_role.png
+  - name: aws-iam_temporarysecuritycredential
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_IAM_temporarysecuritycredential.png
+  - name: aws-iam
+    src: http://aendrew.com/aws-slack-emojipack/SecurityIdentityCompliance_IAM.png

@@ -1,0 +1,16 @@
+title: AWS Application Services
+emojis:
+  - name: aws-amazonapigateway
+    src: http://aendrew.com/aws-slack-emojipack/ApplicationServices_AmazonAPIGateway.png
+  - name: aws-amazonappstream
+    src: http://aendrew.com/aws-slack-emojipack/ApplicationServices_AmazonAppStream.png
+  - name: aws-amazonelastictranscoder
+    src: http://aendrew.com/aws-slack-emojipack/ApplicationServices_AmazonElasticTranscoder.png
+  - name: aws-amazonswf_decider
+    src: http://aendrew.com/aws-slack-emojipack/ApplicationServices_AmazonSWF_decider.png
+  - name: aws-amazonswf_worker
+    src: http://aendrew.com/aws-slack-emojipack/ApplicationServices_AmazonSWF_worker.png
+  - name: aws-amazonswf
+    src: http://aendrew.com/aws-slack-emojipack/ApplicationServices_AmazonSWF.png
+  - name: aws-awsstepfunctions
+    src: http://aendrew.com/aws-slack-emojipack/ApplicationServices_AWSStepFunctions.png

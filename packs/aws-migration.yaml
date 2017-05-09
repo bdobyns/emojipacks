@@ -1,0 +1,14 @@
+title: AWS Migration
+emojis:
+  - name: aws-awsapplicationdiscoveryservice
+    src: http://aendrew.com/aws-slack-emojipack/Migration_AWSApplicationDiscoveryService.png
+  - name: aws-awsdms_databasemigrationworkflow-job
+    src: http://aendrew.com/aws-slack-emojipack/Migration_AWSDMS_databasemigrationworkflow-job.png
+  - name: aws-awsdms
+    src: http://aendrew.com/aws-slack-emojipack/Migration_AWSDMS.png
+  - name: aws-awssms
+    src: http://aendrew.com/aws-slack-emojipack/Migration_AWSSMS.png
+  - name: aws-awssnowball_importexport
+    src: http://aendrew.com/aws-slack-emojipack/Migration_AWSSnowball_importexport.png
+  - name: aws-awssnowball
+    src: http://aendrew.com/aws-slack-emojipack/Migration_AWSSnowball.png

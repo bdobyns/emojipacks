@@ -1,0 +1,38 @@
+title: AWS Storage
+emojis:
+  - name: aws-amazonebs
+    src: http://aendrew.com/aws-slack-emojipack/Storage_AmazonEBS.png
+  - name: aws-amazonefs_efsshare
+    src: http://aendrew.com/aws-slack-emojipack/Storage_AmazonEFS_EFSShare.png
+  - name: aws-amazonefs
+    src: http://aendrew.com/aws-slack-emojipack/Storage_AmazonEFS.png
+  - name: aws-amazonglacier_archive
+    src: http://aendrew.com/aws-slack-emojipack/Storage_AmazonGlacier_archive.png
+  - name: aws-amazonglacier_vault
+    src: http://aendrew.com/aws-slack-emojipack/Storage_AmazonGlacier_vault.png
+  - name: aws-amazonglacier
+    src: http://aendrew.com/aws-slack-emojipack/Storage_AmazonGlacier.png
+  - name: aws-amazons3_bucket
+    src: http://aendrew.com/aws-slack-emojipack/Storage_AmazonS3_bucket.png
+  - name: aws-amazons3_bucketwithobjects
+    src: http://aendrew.com/aws-slack-emojipack/Storage_AmazonS3_bucketwithobjects.png
+  - name: aws-amazons3_object
+    src: http://aendrew.com/aws-slack-emojipack/Storage_AmazonS3_object.png
+  - name: aws-amazons3
+    src: http://aendrew.com/aws-slack-emojipack/Storage_AmazonS3.png
+  - name: aws-awssnowball_importexport
+    src: http://aendrew.com/aws-slack-emojipack/Storage_AWSSnowball_importexport.png
+  - name: aws-awssnowball
+    src: http://aendrew.com/aws-slack-emojipack/Storage_AWSSnowball.png
+  - name: aws-awsstoragegateway_cachedvolume
+    src: http://aendrew.com/aws-slack-emojipack/Storage_AWSStorageGateway_cachedvolume.png
+  - name: aws-awsstoragegateway_non-cachedvolume
+    src: http://aendrew.com/aws-slack-emojipack/Storage_AWSStorageGateway_non-cachedvolume.png
+  - name: aws-awsstoragegateway_virtualtapelibrary
+    src: http://aendrew.com/aws-slack-emojipack/Storage_AWSStorageGateway_virtualtapelibrary.png
+  - name: aws-awsstoragegateway
+    src: http://aendrew.com/aws-slack-emojipack/Storage_AWSStorageGateway.png
+  - name: aws-snapshot
+    src: http://aendrew.com/aws-slack-emojipack/Storage_snapshot.png
+  - name: aws-volume
+    src: http://aendrew.com/aws-slack-emojipack/Storage_volume.png

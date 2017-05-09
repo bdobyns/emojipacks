@@ -1,0 +1,84 @@
+title: AWS Compute
+emojis:
+  - name: apple
+    src: http://aendrew.com/aws-slack-emojipack/http://i.imgur.com/Rw0Vlda.png
+  - name: aws-amazonec2_ami
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonEC2_AMI.png
+  - name: aws-amazonec2_autoscaling
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonEC2_AutoScaling.png
+  - name: aws-amazonec2_dboninstance
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonEC2_DBoninstance.png
+  - name: aws-amazonec2_elasticipaddress
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonEC2_ElasticIPaddress.png
+  - name: aws-amazonec2_instance
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonEC2_instance.png
+  - name: aws-amazonec2_instances
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonEC2_instances.png
+  - name: aws-amazonec2_instancewithcloudwatch
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonEC2_instancewithCloudWatch.png
+  - name: aws-amazonec2_optimizedinstance
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonEC2_optimizedinstance.png
+  - name: aws-amazonec2_spotfleet
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonEC2_Spotfleet.png
+  - name: aws-amazonec2_spotinstance
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonEC2_Spotinstance.png
+  - name: aws-amazonec2_x1instance
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonEC2_X1instance.png
+  - name: aws-amazonec2
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonEC2.png
+  - name: aws-amazonecr_ecrregistry
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonECR_ECRRegistry.png
+  - name: aws-amazonecr
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonECR.png
+  - name: aws-amazonecs_ec2computecontainer-alt1
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonECS_EC2ComputeContainer-Alt1.png
+  - name: aws-amazonecs_ec2computecontainer-alt2
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonECS_EC2ComputeContainer-Alt2.png
+  - name: aws-amazonecs_ec2computecontainer
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonECS_EC2ComputeContainer.png
+  - name: aws-amazonecs
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonECS.png
+  - name: aws-amazonlightsail
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonLightsail.png
+  - name: aws-amazonvpc_customergateway
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonVPC_customergateway.png
+  - name: aws-amazonvpc_elasticnetworkadapter
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonVPC_elasticnetworkadapter.png
+  - name: aws-amazonvpc_elasticnetworkinterface
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonVPC_elasticnetworkinterface.png
+  - name: aws-amazonvpc_endpoints
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonVPC_endpoints.png
+  - name: aws-amazonvpc_flowlogs
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonVPC_flowlogs.png
+  - name: aws-amazonvpc_internetgateway
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonVPC_Internetgateway.png
+  - name: aws-amazonvpc_router
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonVPC_router.png
+  - name: aws-amazonvpc_vpcnatgateway
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonVPC_VPCNATgateway.png
+  - name: aws-amazonvpc_vpcpeering
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonVPC_VPCpeering.png
+  - name: aws-amazonvpc_vpnconnection
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonVPC_VPNconnection.png
+  - name: aws-amazonvpc_vpngateway
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonVPC_VPNgateway.png
+  - name: aws-amazonvpc
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AmazonVPC.png
+  - name: aws-awsbatch
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AWSBatch.png
+  - name: aws-awselasticbeanstalk_application
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AWSElasticBeanstalk_application.png
+  - name: aws-awselasticbeanstalk_deployment
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AWSElasticBeanstalk_deployment.png
+  - name: aws-awselasticbeanstalk
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AWSElasticBeanstalk.png
+  - name: aws-awslambda_lambdafunction
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AWSLambda_LambdaFunction.png
+  - name: aws-awslambda
+    src: http://aendrew.com/aws-slack-emojipack/Compute_AWSLambda.png
+  - name: aws-elasticloadbalancing_applicationloadbalancer
+    src: http://aendrew.com/aws-slack-emojipack/Compute_ElasticLoadBalancing_ApplicationLoadBalancer.png
+  - name: aws-elasticloadbalancing_classicloadbalancer
+    src: http://aendrew.com/aws-slack-emojipack/Compute_ElasticLoadBalancing_ClassicLoadbalancer.png
+  - name: aws-elasticloadbalancing
+    src: http://aendrew.com/aws-slack-emojipack/Compute_ElasticLoadBalancing.png

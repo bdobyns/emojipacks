@@ -1,0 +1,42 @@
+title: AWS <name>
+emojis:
+  - name: aws-awscloud
+    src: http://aendrew.com/aws-slack-emojipack/General_AWScloud.png
+  - name: aws-awsmanagementconsole
+    src: http://aendrew.com/aws-slack-emojipack/General_AWSManagementConsole.png
+  - name: aws-client
+    src: http://aendrew.com/aws-slack-emojipack/General_client.png
+  - name: aws-corporatedatacenter
+    src: http://aendrew.com/aws-slack-emojipack/General_corporatedatacenter.png
+  - name: aws-disk
+    src: http://aendrew.com/aws-slack-emojipack/General_disk.png
+  - name: aws-forums
+    src: http://aendrew.com/aws-slack-emojipack/General_forums.png
+  - name: aws-genericdatabase
+    src: http://aendrew.com/aws-slack-emojipack/General_genericdatabase.png
+  - name: aws-internet
+    src: http://aendrew.com/aws-slack-emojipack/General_Internet.png
+  - name: aws-internetalternate1
+    src: http://aendrew.com/aws-slack-emojipack/General_Internetalternate1.png
+  - name: aws-internetalternate2
+    src: http://aendrew.com/aws-slack-emojipack/General_Internetalternate2.png
+  - name: aws-mobileclient
+    src: http://aendrew.com/aws-slack-emojipack/General_mobileclient.png
+  - name: aws-multimedia
+    src: http://aendrew.com/aws-slack-emojipack/General_multimedia.png
+  - name: aws-officebuilding
+    src: http://aendrew.com/aws-slack-emojipack/General_officebuilding.png
+  - name: aws-samltoken
+    src: http://aendrew.com/aws-slack-emojipack/General_SAMLtoken.png
+  - name: aws-sslpadlock
+    src: http://aendrew.com/aws-slack-emojipack/General_SSLpadlock.png
+  - name: aws-tapestorage
+    src: http://aendrew.com/aws-slack-emojipack/General_tapestorage.png
+  - name: aws-traditionalserver
+    src: http://aendrew.com/aws-slack-emojipack/General_traditionalserver.png
+  - name: aws-user
+    src: http://aendrew.com/aws-slack-emojipack/General_user.png
+  - name: aws-users
+    src: http://aendrew.com/aws-slack-emojipack/General_users.png
+  - name: aws-virtualprivatecloud
+    src: http://aendrew.com/aws-slack-emojipack/General_virtualprivatecloud.png

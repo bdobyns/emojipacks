@@ -1,0 +1,90 @@
+title: AWS IoT
+emojis:
+  - name: apple
+    src: http://aendrew.com/aws-slack-emojipack/http://i.imgur.com/Rw0Vlda.png
+  - name: aws-alexaskill
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_alexaskill.png
+  - name: aws-alexasmarthomeskill
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_alexasmarthomeskill.png
+  - name: aws-alexavoiceservice
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_alexavoiceservice.png
+  - name: aws-avsenableddevice
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AVSenableddevice.png
+  - name: aws-awsgreengrass
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSGreengrass.png
+  - name: aws-awsiot_action
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_action.png
+  - name: aws-awsiot_actuator
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_actuator.png
+  - name: aws-awsiot_certificate
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_certificate.png
+  - name: aws-awsiot_desiredstate
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_desiredstate.png
+  - name: aws-awsiot_hardwareboard
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_hardwareboard.png
+  - name: aws-awsiot_http2protocol
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_HTTP2protocol.png
+  - name: aws-awsiot_httpprotocol
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_HTTPprotocol.png
+  - name: aws-awsiot_mqttprotocol
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_MQTTprotocol.png
+  - name: aws-awsiot_policy
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_policy.png
+  - name: aws-awsiot_reportedstate
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_reportedstate.png
+  - name: aws-awsiot_rule
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_rule.png
+  - name: aws-awsiot_sensor
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_sensor.png
+  - name: aws-awsiot_servo
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_servo.png
+  - name: aws-awsiot_shadow
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_shadow.png
+  - name: aws-awsiot_simulator
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_simulator.png
+  - name: aws-awsiot_thingbank
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_thingbank.png
+  - name: aws-awsiot_thingbicycle
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_thingbicycle.png
+  - name: aws-awsiot_thingcamera
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_thingcamera.png
+  - name: aws-awsiot_thingcar
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_thingcar.png
+  - name: aws-awsiot_thingcart
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_thingcart.png
+  - name: aws-awsiot_thingcoffeepot
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_thingcoffeepot.png
+  - name: aws-awsiot_thingdoorlock
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_thingdoorlock.png
+  - name: aws-awsiot_thingfactory
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_thingfactory.png
+  - name: aws-awsiot_thinggeneric
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_thinggeneric.png
+  - name: aws-awsiot_thinghouse
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_thinghouse.png
+  - name: aws-awsiot_thinglightbulb
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_thinglightbulb.png
+  - name: aws-awsiot_thingmedicalemergency
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_thingmedicalemergency.png
+  - name: aws-awsiot_thingpoliceemergency
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_thingpoliceemergency.png
+  - name: aws-awsiot_thingthermostat
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_thingthermostat.png
+  - name: aws-awsiot_thingtravel
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_thingtravel.png
+  - name: aws-awsiot_thingutility
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_thingutility.png
+  - name: aws-awsiot_thingwindfarm
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_thingwindfarm.png
+  - name: aws-awsiot_topic
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT_topic.png
+  - name: aws-awsiot
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_AWSIoT.png
+  - name: aws-echo
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_echo.png
+  - name: aws-firetv
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_fireTV.png
+  - name: aws-firetvstick
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_fireTVstick.png
+  - name: aws-lambdafunction
+    src: http://aendrew.com/aws-slack-emojipack/InternetOfThings_lambdafunction.png

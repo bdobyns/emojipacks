@@ -4,3 +4,19 @@ emojis:
     src: http://i.imgur.com/6bKXKUP.gif
   - name: alpaca
     src: http://i.imgur.com/c6QxTbM.gif
+  - name: columbian-mammoth
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/columbian-mammoth.png
+  - name: dodo
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/dodo.png
+  - name: emu
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/emu.png
+  - name: platypus
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/platypus.png
+  - name: sabre-tooth-tiger
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/sabre-tooth-tiger.png
+  - name: wildebeest
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/wildebeest.png
+  - name: wooly-mammoth
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/wooly-mammoth.png
+  - name: zebra
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/zebra.png

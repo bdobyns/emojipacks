@@ -1,20 +1,21 @@
-  - name: morty-afraid
-    src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/morty-afraid.png
-  - name: morty-robot
-    src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/morty-robot.gif
+
   - name: morty
     src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/morty.gif
-  - name: rick-1
-    src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/rick-1.png
-  - name: rick-2
-    src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/rick-2.png
-  - name: rick-and-morty-running
-    src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/rick-and-morty-running.gif
-  - name: rick-drunk
-    src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/rick-drunk.gif
-  - name: rick-excited
-    src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/rick-excited.png
-  - name: rick-pointing
-    src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/rick-pointing.gif
-  - name: rick-talking
-    src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/rick-talking.png
+  - name: morty_afraid
+    src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/morty_afraid.png
+  - name: morty_robot
+    src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/morty_robot.gif
+  - name: rick_1
+    src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/rick_1.png
+  - name: rick_2
+    src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/rick_2.png
+  - name: rick_and_morty_running
+    src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/rick_and_morty_running.gif
+  - name: rick_drunk
+    src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/rick_drunk.gif
+  - name: rick_excited
+    src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/rick_excited.png
+  - name: rick_pointing
+    src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/rick_pointing.gif
+  - name: rick_talking
+    src: https://github.com/bdobyns/emojipacks/raw/rick-and-morty/assets/rick_talking.png

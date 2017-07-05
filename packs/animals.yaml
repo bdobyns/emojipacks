@@ -62,3 +62,5 @@ emojis:
     src: https://github.com/bdobyns/emojipacks/raw/animals/assets/robot-shark.png
   - name: coyote
     src: https://github.com/bdobyns/emojipacks/raw/animals/assets/coyote.jpg
+  - name: bulldog
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/bulldog.png
